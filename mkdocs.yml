@@ -2,6 +2,6 @@ site_name: example-docs
 nav:
   - Home: index.md
   - SubPage: sub-page.md
-  - SomePage: some-page.md
+  - TheSomePage: the-some-page.md
 plugins:
   - techdocs-core
