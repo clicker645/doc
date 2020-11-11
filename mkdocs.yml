@@ -2,7 +2,6 @@ site_name: example-docs
 nav:
   - Home: index.md
   - SubPage: sub-page.md
-  - kjhjkhjk: kjhjkhjk.md
-  - lkjlkkljkljlk: lkjlkkljkljlk.md
+  - SomePage: some-page.md
 plugins:
   - techdocs-core
